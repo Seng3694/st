@@ -1,0 +1,14 @@
+arg.h linguist-vendored=true
+config.mk linguist-vendored=true
+FAQ linguist-vendored=true
+LEGACY linguist-vendored=true
+LICENSE linguist-vendored=true
+Makefile linguist-vendored=true
+README linguist-vendored=true
+st.1 linguist-vendored=true
+st.c linguist-vendored=true
+st.h linguist-vendored=true
+st.info linguist-vendored=true
+TODO linguist-vendored=true
+win.h linguist-vendored=true
+x.c linguist-vendored=true
